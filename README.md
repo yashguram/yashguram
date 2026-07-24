@@ -160,7 +160,7 @@ A React travel packing list project created to practise reusable components, con
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=yashguram&show_icons=true&theme=github_dark&hide_border=true"
     alt="Yash Guram GitHub Stats"
@@ -172,7 +172,7 @@ A React travel packing list project created to practise reusable components, con
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashguram&layout=compact&theme=github_dark&hide_border=true"
     alt="Yash Guram Top Languages"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img
